@@ -17,7 +17,7 @@ A simple web-based bug tracking system where users can add, view, edit, delete, 
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed app](https://yourusername.github.io/bug-tracker-app/)  
+👉 [Click here to view the deployed app] https://sheikharman04.github.io/bug-tracker-app/)  
 
 
 ---
