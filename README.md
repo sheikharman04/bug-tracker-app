@@ -32,5 +32,15 @@ A simple web-based bug tracking system where users can add, view, edit, delete, 
 
 ---
 
-## 📂 Folder Structure
+🧪 Testing
+
+All manual test cases and results are documented in the Test Report:
+
+Bug Tracker Test Report (Excel)
+
+Test Summary:
+
+Total Test Cases: 20
+
+Coverage: CRUD operations, validation, filtering, UI responsiveness, security, and performance.
 
