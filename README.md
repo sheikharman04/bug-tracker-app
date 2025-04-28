@@ -36,7 +36,7 @@ A simple web-based bug tracking system where users can add, view, edit, delete, 
 
 All manual test cases and results are documented in the Test Report:
 
-Bug Tracker Test Report (Excel)
+Bug_Tracker_Test_Report.xlsx (Excel)
 
 Test Summary:
 
